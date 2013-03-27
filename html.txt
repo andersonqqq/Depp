@@ -1,0 +1,17 @@
+<html>
+
+   <head>
+
+     <title>Shut Up</title>
+
+   </head>
+
+   
+
+  <body>
+
+    Shut up
+
+   </body>
+
+</html>
