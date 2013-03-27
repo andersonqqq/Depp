@@ -11,6 +11,13 @@
 
     Shut up
 
+<style type="text/css">
+  div {
+    color: blue;
+  }
+</style>
+<div>I am div!</div>
+
    </body>
 
 </html>
